@@ -10,7 +10,8 @@ config_version=5
 
 [application]
 
-config/name="Galens-Story"
+config/name="Gaelens-Story"
+run/main_scene="res://scenes/main_menu.tscn"
 config/features=PackedStringArray("4.6", "Mobile")
 config/icon="res://icon.svg"
 
